@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da6f3d06-7761-43ac-abe1-4d96c608673b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,10 +22,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lesson3.php">
+        <entry file="file://$PROJECT_DIR$/lesson4.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="63" column="7" lean-forward="true" selection-start-line="63" selection-start-column="7" selection-end-line="63" selection-end-column="7" />
+            <state relative-caret-position="405">
+              <caret line="61" column="34" selection-start-line="61" selection-start-column="34" selection-end-line="61" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -40,6 +43,7 @@
         <option value="$PROJECT_DIR$/lesson1.php" />
         <option value="$PROJECT_DIR$/lesson2.php" />
         <option value="$PROJECT_DIR$/lesson3.php" />
+        <option value="$PROJECT_DIR$/lesson4.php" />
       </list>
     </option>
   </component>
@@ -74,11 +78,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -106,18 +116,20 @@
       <workItem from="1560075302629" duration="1667000" />
       <workItem from="1560082534151" duration="21000" />
       <workItem from="1560082580751" duration="714000" />
-      <workItem from="1560335961905" duration="2498000" />
+      <workItem from="1560335961905" duration="2682000" />
+      <workItem from="1560692236797" duration="105000" />
+      <workItem from="1560694201716" duration="1600000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6669000" />
+    <option name="totallyTimeSpent" value="8558000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14663805" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1509299" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -187,7 +199,14 @@
     <entry file="file://$PROJECT_DIR$/lesson3.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="63" column="7" lean-forward="true" selection-start-line="63" selection-start-column="7" selection-end-line="63" selection-end-column="7" />
+          <caret line="63" column="7" selection-start-line="63" selection-start-column="7" selection-end-line="63" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="61" column="34" selection-start-line="61" selection-start-column="34" selection-end-line="61" selection-end-column="34" />
         </state>
       </provider>
     </entry>
