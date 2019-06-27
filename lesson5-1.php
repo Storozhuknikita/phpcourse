@@ -29,7 +29,7 @@ echo'Фото с id: '.$result['id'].' <br/>
 Кол-во просмотров: '.$result['count'];
 
 
-mysqli_query($link, "UPDATE gallery SET count = count + 1 WHERE id = '".$id."' ");
+mysqli_query($link, "UPDATE gallery SET count = 5");
 
 /*if(mysqli_query($link, "UPDATE `gallery` SET count = count + 1 WHERE id = '".$id."'")){
     echo 'Статистика просмотров: '.$count.'<br/>';
